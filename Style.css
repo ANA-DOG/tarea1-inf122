@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 15px;
+    margin-bottom: -15px;
+}
+.circulos {
+    height: 450px;
+    width: 450px;
+    background-color: #1e3c8f;
+    border-radius: 50%;
+}
+.cir1 {
+    background-color: #b41824;
+    border-radius: 50%;
+    height: 12px;
+    width: 12px;
+}
+.cir2 {
+    background-color: #adba1c;
+    border-radius: 50%;
+    height: 12px;
+    width: 12px;
+    margin-left: 12px;
+}
+.cir3 {
+    background-color: #71c92a;
+    border-radius: 50%;
+    height: 12px;
+    width: 12px;
+    margin-left: 24px;
+}
+.cir4 {
+    background-color: #22c8c5;
+    border-radius: 50%;
+    height: 12px;
+    width: 12px;
+    margin-left: 36px;
+}
+.cir5 {
+    background-color: #e649c4;
+    border-radius: 50%;
+    height: 12px;
+    width: 12px;
+    margin-left: 48px;
+}
+.cir6 {
+    background-color: #ffffff;
+    border-radius: 50%;
+    height: 12px;
+    width: 12px;
+    margin-left: 60px;
+}
+.primario {
+    margin-left: 80px;
+    margin-top: 25px;
+}
+.secundario {
+    margin-left: 270px;
+    margin-top: -45px;
+}
